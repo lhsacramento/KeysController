@@ -1,16 +1,9 @@
-# keys_controller
+# Keys Controller
 
-A new Flutter project.
+Esse foi um projeto muito bacana de trabalhar. A ideia veio de uma funcionalidade que existe no meu trabalho atual onde registramos a entrada e saída de chaves em um livro registro.
 
-## Getting Started
+Pensei em otimizar essa ideia e transformar em algo mais sustentável, onde não precisaríamos mais gastar cadernos e cadernos para fazer esse registro. E digitalizar essa ideia também otimiza a hora de buscar determinada informação, pois com poucos cliques é possível fazer um resumo de entrada e saída de uma determinada chave. E caso precise também (ainda será implementado) gerar um registro para poder imprimir e colocar em um possível relatório diário/semanal.
 
-This project is a starting point for a Flutter application.
+As chaves são pré definidas dentro do projeto em formato json padrão na primeira inicialização do app, caso já haja algum json criado ele simplesmente pega esse json e adiciona as entradas e saídas que vão ocorrendo durante o dia. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este também foi um ótimo projeto para se familiarizar ainda mais com o formato json para salvar e ler informações, pois além de pegar um json pré definido, ainda ainda modifico e salvo novamente com diversos tipos de variáveis.
